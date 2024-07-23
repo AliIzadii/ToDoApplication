@@ -6,11 +6,10 @@ This is a Flutter-based to-do list application designed to help users organize a
 
 - **Authentication**:
   - User registration and login via an **API** (Not using Firebase Authentication. See this [project](https://github.com/AliIzadii/ShopApplication), if you want to using Firebase Authentication).
-  - Error handling for authentication issues.
   - Sign-out functionality.
 
 - **Boards**:
-  - Add, edit, and delete boards (e.g., categories like "University" or "Work").
+  - Add, edit, and delete boards.
   - Each board serves as a container for related tasks.
 
 - **Tasks**:
