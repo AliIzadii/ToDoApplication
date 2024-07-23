@@ -5,7 +5,7 @@ This is a Flutter-based to-do list application designed to help users organize a
 ## Features
 
 - **Authentication**:
-  - User registration and login via an **API** (Not using Firebase Authentication. See this [project](https://github.com/AliIzadii/ShopApplication) for working with Firebase Authentication).
+  - User registration and login via an **API** (Not using Firebase Authentication. See this [project](https://github.com/AliIzadii/ShopApplication) if you want to work with Firebase Authentication).
   - Error handling for authentication issues.
   - Sign-out functionality.
 
